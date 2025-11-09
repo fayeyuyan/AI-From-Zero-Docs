@@ -12,7 +12,8 @@ Machine learning(ML) - A subset of AI focused on analyzing data to make decision
 
 Training set - A collection of data used to teach AI
 
-Training data quality and relevance are critical for effective ML programs; data bias is a fundamental issue that can cause inaccurate AI outputs.
+    Data quality and relevance are critical to effective ML programs; data bias is a fundamental issue that can cause inaccurate AI outputs.
 
 
-Resource: [https://www.coursera.org/learn/google-introduction-to-ai/]
+### Resource
+Coursera: [https://www.coursera.org/learn/google-introduction-to-ai/]
