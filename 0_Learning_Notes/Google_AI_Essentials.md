@@ -1,5 +1,4 @@
-##Intro to AI
-
+## Intro to AI
 A - Artificial
 
 I - Intelligence, which can perform cognitive tasks such as thinking and decision-making.
